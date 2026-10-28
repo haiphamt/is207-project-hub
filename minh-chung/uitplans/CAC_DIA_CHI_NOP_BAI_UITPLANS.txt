@@ -1,0 +1,27 @@
+﻿UITPLANS - CÁC ĐỊA CHỈ NỘP MINI PROJECT
+Nhóm PHP Is Awesome - IS207.R11
+Cập nhật ngày 26/10/2026
+
+1. Website sản phẩm
+https://uitplans.netlify.app/
+
+2. Mã nguồn và README
+https://github.com/haiphamt/uitplans
+
+3. Project Hub
+https://github.com/haiphamt/is207-project-hub
+
+4. Trang Mini Project
+https://app.notion.com/p/3ee533490aed81f7ab5eee549942f2c3
+
+5. Sơ đồ Activity, Sequence và Flowchart
+https://uitplans.netlify.app/events.html
+
+6. Slide
+Đã đính kèm bộ tài liệu nộp
+
+7. Product Brief
+https://app.notion.com/p/3ee533490aed81f7ab5eee549942f2c3
+
+8. Thư mục video so sánh 2 công cụ AI
+https://drive.google.com/drive/folders/1nuZU3G-NEcOPM4UF4fP5bB-GgAus5R40?usp=drive_link
