@@ -1,8 +1,12 @@
-# Project Hub · PHP Is Awesome
+<p align="center">
+  <img src="assets/course-banner.png" alt="IS207.R11 — Nhóm 5 | Phát triển ứng dụng Web" width="100%">
+</p>
 
-**[Mở Project Hub chính tại GitHub Organization PHP-Is-Awesome-IS207](https://github.com/PHP-Is-Awesome-IS207)**
+# Project Hub · IS207.R11 — Nhóm 5
 
-Repository này lưu tài liệu và minh chứng của nhóm **PHP Is Awesome**, môn **Phát triển ứng dụng Web — IS207.R11**, Trường Đại học Công nghệ Thông tin, ĐHQG-HCM. Đường dẫn đã nộp vẫn được giữ để truy cập các tài liệu bên dưới.
+**[Mở Project Hub chính tại GitHub Organization IS207-R11-Nhom5](https://github.com/IS207-R11-Nhom5)**
+
+Repository này lưu tài liệu và minh chứng của **Nhóm 5**, môn **Phát triển ứng dụng Web — IS207.R11**, Trường Đại học Công nghệ Thông tin, ĐHQG-HCM. Đường dẫn đã nộp vẫn được giữ để truy cập các tài liệu bên dưới.
 
 Hub kết nối hai dự án của nhóm: **uitplans** là Mini Project đã có sản phẩm chạy online; **TravelGo** là đồ án chính đang phát triển. Mã nguồn, tài liệu sản phẩm và minh chứng được dẫn đến đúng nơi lưu trữ để giảng viên và các thành viên tiện theo dõi.
 
@@ -39,6 +43,8 @@ Bộ nộp Mini Project gồm [slides](minh-chung/uitplans/Slides_Mini_Project.p
 **Tên đề tài:** uitplans — Website khám phá hướng học và lập kế hoạch tự học cho sinh viên CNTT.
 
 Sinh viên có thể biết ngành đang học nhưng chưa rõ hướng nghề nghiệp, những kỹ năng cần bổ sung hoặc thứ tự tự học. uitplans nối bước khám phá hướng học với lựa chọn kỹ năng, nguồn học và một kế hoạch theo quỹ thời gian mỗi tuần. Chọn ngành giúp ưu tiên gợi ý; người dùng vẫn có thể khám phá các hướng ngoài ngành.
+
+<img src="assets/uitplans/explore-desktop.png" alt="Giao diện Explore của uitplans" width="100%">
 
 ### Phạm vi sản phẩm
 
@@ -93,6 +99,10 @@ Video kiểm soát AI và video so sánh hai công cụ được tập hợp tro
 **Tên đề tài:** TravelGo — Nền tảng khám phá địa điểm và lập lịch trình du lịch thông minh.
 
 TravelGo hỗ trợ tìm địa điểm và lập lịch trình theo thời gian, ngân sách, sở thích. Phạm vi dữ liệu ban đầu là **TP.HCM và Đà Lạt**; **Góc Địa Phương** triển khai trước tại TP.HCM. Dữ liệu địa điểm sử dụng OpenStreetMap và đóng góp có kiểm duyệt; Google Maps được mở bằng liên kết để dẫn đường.
+
+<img src="assets/travelgo-design.png" alt="Bản thiết kế TravelGo — Góc Địa Phương" width="100%">
+
+*Bản thiết kế giao diện, dữ liệu minh họa; không phải minh chứng toàn bộ chức năng đã triển khai.*
 
 ### Phạm vi dự kiến
 
