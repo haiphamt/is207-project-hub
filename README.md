@@ -1,6 +1,8 @@
 # Project Hub · PHP Is Awesome
 
-Trang tổng hợp của nhóm **PHP Is Awesome**, môn **Phát triển ứng dụng Web — IS207.R11**, Trường Đại học Công nghệ Thông tin, ĐHQG-HCM.
+**[Mở Project Hub chính tại GitHub Organization PHP-Is-Awesome-IS207](https://github.com/PHP-Is-Awesome-IS207)**
+
+Repository này lưu tài liệu và minh chứng của nhóm **PHP Is Awesome**, môn **Phát triển ứng dụng Web — IS207.R11**, Trường Đại học Công nghệ Thông tin, ĐHQG-HCM. Đường dẫn đã nộp vẫn được giữ để truy cập các tài liệu bên dưới.
 
 Hub kết nối hai dự án của nhóm: **uitplans** là Mini Project đã có sản phẩm chạy online; **TravelGo** là đồ án chính đang phát triển. Mã nguồn, tài liệu sản phẩm và minh chứng được dẫn đến đúng nơi lưu trữ để giảng viên và các thành viên tiện theo dõi.
 
