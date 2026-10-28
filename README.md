@@ -44,7 +44,7 @@ Bộ nộp Mini Project gồm [slides](minh-chung/uitplans/Slides_Mini_Project.p
 
 Sinh viên có thể biết ngành đang học nhưng chưa rõ hướng nghề nghiệp, những kỹ năng cần bổ sung hoặc thứ tự tự học. uitplans nối bước khám phá hướng học với lựa chọn kỹ năng, nguồn học và một kế hoạch theo quỹ thời gian mỗi tuần. Chọn ngành giúp ưu tiên gợi ý; người dùng vẫn có thể khám phá các hướng ngoài ngành.
 
-<img src="assets/uitplans/explore-desktop.png" alt="Giao diện Explore của uitplans" width="100%">
+<img src="assets/uitplans-ui-20261028/explore-hero.jpg" alt="Giao diện Explore của uitplans" width="100%">
 
 ### Phạm vi sản phẩm
 
